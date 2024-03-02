@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Daanish Shaikh</h1>
-<h3 align="center">A passionate computer science engineering student from India with an interest in AWS and React JS!</h3>
+<h3 align="center">A passionate computer science engineering student from India with an interest in Java and website development!</h3>
 
-- 🔭 I’m currently working on **a cloud based instant file transfer website.**
+- 🔭 I’m currently working on **a project recreating the usage of goodreads and storygraph.**
 
-- 🌱 I’m currently learning **AWS, cloud security, full stack web development.**
+- 🌱 I’m currently learning **Advanced java and full stack web development.**
 
 - 👯 I’m looking to collaborate on **cloud based projects, and anything related to django and react.**
 
