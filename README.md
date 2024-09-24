@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced java and full stack web development.**
 
-- 👯 I’m looking to collaborate on **cloud based projects, and anything related to django and react.**
+- 👯 I’m looking to collaborate on **cloud based projects, and anything related to Springbot and Angular.**
 
 - 📫 How to reach me **daanishshaikh24ap@gmail.com**
 
