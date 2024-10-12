@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **spring and angular.**
 
-- 👯 I’m looking to collaborate on **cloud based projects, and anything related to Springbot and Angular.**
+- 👯 I’m looking to collaborate on **cloud based projects, and anything related to Springboot and Angular.**
 
 - 📫 How to reach me **daanishshaikh24ap@gmail.com**
 
